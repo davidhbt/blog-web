@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f03982eb.css",
+    "main.js": "/static/js/main.b482faae.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/dummy-post-square-1-thegem-blog-default.jpg": "/static/media/dummy-post-square-1-thegem-blog-default.ffbda052347ad2a9afcd.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f03982eb.css",
+    "static/js/main.b482faae.js"
+  ]
+}
